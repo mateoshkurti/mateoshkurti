@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mateoshkurti/static/css/main.0176dec8.css",
-    "main.js": "/mateoshkurti/static/js/main.310c87fe.js",
-    "static/js/787.fb771931.chunk.js": "/mateoshkurti/static/js/787.fb771931.chunk.js",
+    "main.js": "/mateoshkurti/static/js/main.bc8ae6db.js",
+    "static/js/787.4acd0747.chunk.js": "/mateoshkurti/static/js/787.4acd0747.chunk.js",
     "static/media/color-sharp.png": "/mateoshkurti/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/mateoshkurti/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/mateoshkurti/static/media/banner-bg.cc1273af450504afe755.png",
@@ -30,11 +30,11 @@
     "static/media/arrow2.svg": "/mateoshkurti/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/mateoshkurti/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.0176dec8.css.map": "/mateoshkurti/static/css/main.0176dec8.css.map",
-    "main.310c87fe.js.map": "/mateoshkurti/static/js/main.310c87fe.js.map",
-    "787.fb771931.chunk.js.map": "/mateoshkurti/static/js/787.fb771931.chunk.js.map"
+    "main.bc8ae6db.js.map": "/mateoshkurti/static/js/main.bc8ae6db.js.map",
+    "787.4acd0747.chunk.js.map": "/mateoshkurti/static/js/787.4acd0747.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0176dec8.css",
-    "static/js/main.310c87fe.js"
+    "static/js/main.bc8ae6db.js"
   ]
 }
