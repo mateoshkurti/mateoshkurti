@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/mateoshkurti/static/css/main.0176dec8.css",
+    "main.js": "/mateoshkurti/static/js/main.310c87fe.js",
+    "static/js/787.fb771931.chunk.js": "/mateoshkurti/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/mateoshkurti/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/mateoshkurti/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/mateoshkurti/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/mateoshkurti/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/mateoshkurti/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/mateoshkurti/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/mateoshkurti/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/mateoshkurti/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/footer-bg.png": "/mateoshkurti/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/mateoshkurti/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/mateoshkurti/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/contact-img.svg": "/mateoshkurti/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/mateoshkurti/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/mateoshkurti/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/mateoshkurti/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon2.svg": "/mateoshkurti/static/media/nav-icon2.e4ca1b07ebda6e37a9a4b973f5a1be12.svg",
+    "static/media/logo.svg": "/mateoshkurti/static/media/logo.5f0a56f8f35762ed984c20fe2c2b6dfc.svg",
+    "static/media/meter4.svg": "/mateoshkurti/static/media/meter4.a927d6666a754f8d4231f1646f4f22ba.svg",
+    "static/media/meter3.svg": "/mateoshkurti/static/media/meter3.2c6be5f1cab1172e25f907afec851b66.svg",
+    "static/media/meter2.svg": "/mateoshkurti/static/media/meter2.1d94a706dc9f316243315528648f76a6.svg",
+    "static/media/meter1.svg": "/mateoshkurti/static/media/meter1.30c5334184e175eafc60308571d5bede.svg",
+    "static/media/nav-icon3.svg": "/mateoshkurti/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/mateoshkurti/index.html",
+    "static/media/nav-icon1.svg": "/mateoshkurti/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/mateoshkurti/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/mateoshkurti/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.0176dec8.css.map": "/mateoshkurti/static/css/main.0176dec8.css.map",
+    "main.310c87fe.js.map": "/mateoshkurti/static/js/main.310c87fe.js.map",
+    "787.fb771931.chunk.js.map": "/mateoshkurti/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0176dec8.css",
+    "static/js/main.310c87fe.js"
+  ]
+}
